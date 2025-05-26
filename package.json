@@ -2,7 +2,7 @@
   "name": "crud-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<YOUR_GITHUB_USERNAME>.github.io/crud-app",
+  "homepage": "https://mustafasiddiqui2000.github.io/crud-app",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
